@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-aop-demo" />
+        <module name="design_principles (1)" />
+        <module name="design_principles (11)" />
+        <module name="design_principles (12)" />
+        <module name="design_principles" />
+        <module name="design_principles (10)" />
+        <module name="design_principles (9)" />
+        <module name="design_principles (8)" />
+        <module name="design_principles (7)" />
+        <module name="design_principles (6)" />
+        <module name="design_principles (5)" />
+        <module name="design_principles (15)" />
+        <module name="design_principles (4)" />
+        <module name="design_principles (3)" />
+        <module name="design_principles (2)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="design_principles (13)" target="1.8" />
+      <module name="design_principles (14)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="design_principles" options="" />
+      <module name="design_principles (1)" options="" />
+      <module name="design_principles (6)" options="" />
+      <module name="spring-boot-aop-demo" options="-parameters" />
+    </option>
+  </component>
+</project>

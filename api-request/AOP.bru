@@ -1,0 +1,16 @@
+meta {
+  name: AOP
+  type: http
+  seq: 1
+}
+
+get {
+  url: http://localhost:8080/payments?amount=1000&customer=Manoj
+  body: none
+  auth: inherit
+}
+
+params:query {
+  amount: 1000
+  customer: Manoj
+}

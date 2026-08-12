@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/design-pattern/singleResponsibility/design_principles+-+SRP+-+hands+on+begin/design_principles - SRP - hands on begin/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/singleResponsibility/design_principles+-+SRP+-+hands+on+done/design_principles - SRP - hands on done/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/openClosed/design_principles+-+OC+-+begin/design_principles - OC - begin/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/openClosed/design_principles+-+OC+-+end/design_principles - OC - end/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/liskov/design_principles+-+liskov+-+begin/design_principles - liskov - begin/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/liskov/design_principles+-+liskov+-+end/design_principles - liskov - end/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/interfaceSeggration/design_principles - interface Segregation - end/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/interfaceSeggration/design_principles - interface Segregation - begin/pom.xml" />
+        <option value="$PROJECT_DIR$/DSA/DsaCoding/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/interfaceSegregation/design_principles - interface Segregation - end/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/interfaceSegregation/design_principles - interface Segregation - begin/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/dependencyInversion/design_principles - dependency inv - begin/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/dependencyInversion/design_principles - dependency inv - end/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/creational/builder-pattern/builder_end/udemy-design-patterns-handson/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/creational/builder-pattern/start/pom.xml" />
+        <option value="$PROJECT_DIR$/basics/pom.xml" />
+        <option value="$PROJECT_DIR$/basics/threads/pom.xml" />
+        <option value="$PROJECT_DIR$/basic/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/creational/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/structural/pom.xml" />
+        <option value="$PROJECT_DIR$/basic/src/main/java/springboot/spring-boot-aop-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/DSA/pom.xml" />
+        <option value="$PROJECT_DIR$/java/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/design-pattern/creational/builder-pattern/builder_end/udemy-design-patterns-handson/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/creational/builder-pattern/start/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/structural/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="azul-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

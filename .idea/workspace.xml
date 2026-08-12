@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd811c10-436d-4401-88c3-463f2695a3de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/design-patterns/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/abstract_factory/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/abstract_factory/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/abstract_factory/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/abstract_factory/img/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/abstract_factory/img/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/abstract_factory/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/abstract_factory/solved/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/abstract_factory/solved/ResourceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/abstract_factory/solved/aws/AwsResourceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/abstract_factory/solved/aws/Ec2Instance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/abstract_factory/solved/aws/S3Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/abstract_factory/solved/family/Instance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/abstract_factory/solved/family/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/abstract_factory/solved/gcp/GoogleCloudStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/abstract_factory/solved/gcp/GoogleComputeEngineInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/abstract_factory/solved/gcp/GoogleResourceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/img/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/img/img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/inner/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/inner/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/inner/builder/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/inner/builder/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/inner/builder/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/inner/builder/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/inner/builder/UserDTOBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/inner/builder/UserWebDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/inner/builder/UserWebDTOBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/nested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/problem/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/problem/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/problem/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/problem/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/problem/UserDTOBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/problem/UserWebDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/problem/UserWebDTOBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/solved/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/solved/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/solved/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/solved/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/solved/UserDTOBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/solved/UserWebDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/builder/solved/UserWebDTOBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_factory/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_factory/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_factory/problem/BlogPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_factory/problem/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_factory/problem/NewsPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_factory/problem/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_factory/problem/PostFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_factory/problem/ProductPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_factory/solved/BlogPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_factory/solved/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_factory/solved/NewsPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_factory/solved/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_factory/solved/PostFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_factory/solved/ProductPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_method/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_method/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_method/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_method/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_method/solved/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_method/solved/JSONMessageCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_method/solved/MessageCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_method/solved/TextMessageCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_method/solved/message/JSONMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_method/solved/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/factory/simple_method/solved/message/TextMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/object_pool/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/object_pool/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/object_pool/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/object_pool/img/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/object_pool/img/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/object_pool/img/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/object_pool/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/object_pool/solved/Bitmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/object_pool/solved/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/object_pool/solved/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/object_pool/solved/ObjectPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/object_pool/solved/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/object_pool/solved/Poolable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/prototype/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/prototype/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/prototype/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/prototype/solved/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/prototype/solved/GameUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/prototype/solved/General.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/prototype/solved/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/prototype/solved/Swordsman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/singleton/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/singleton/design/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/singleton/design/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/singleton/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/singleton/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/singleton/img/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/singleton/img/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/singleton/img/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/singleton/img/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/singleton/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/singleton/solved/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/singleton/solved/EagerRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/singleton/solved/LazyRegistryIODH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/singleton/solved/LazyRegistryWithDCL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/creational/singleton/solved/RegistryEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/solid/singleResponsibility/problem/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/solid/singleResponsibility/problem/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/solid/singleResponsibility/problem/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/solid/singleResponsibility/problem/UserPersistenceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/solid/singleResponsibility/problem/UserValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/solid/singleResponsibility/solved/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/solid/singleResponsibility/solved/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/solid/singleResponsibility/solved/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/solid/singleResponsibility/solved/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/solid/singleResponsibility/solved/UserPersistenceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/solid/singleResponsibility/solved/UserValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/classes/basics/feature/DefaultMethodDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/classes/basics/feature/FunctionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/classes/basics/feature/FunctionalInterfaceDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/classes/basics/feature/RecordDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/classes/basics/feature/SealedClassDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/classes/basics/feature/UnmodifiableCollectionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/classes/basics/thread/code/ExecutorsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/classes/basics/thread/code/MyCallable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/classes/basics/thread/code/MyRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/classes/basics/thread/code/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/classes/basics/thread/code/ProducerConsumerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/classes/basics/thread/code/SharedResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/classes/basics/thread/code/SynchronizationDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/classes/basics/thread/code/ThreadCreationDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/classes/basics/thread/code/ThreadLifeCycleDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/classes/basics/thread/code/ThreadMethodsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/classes/basics/thread/code/Tread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;manoj-998&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/manoj-998/java.git&quot;,
+    &quot;accountId&quot;: &quot;a40fef56-9f5a-4b5a-b35e-f8528198c438&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.000000028046578" />
+      <entry key="S10" value="1.0001674711260236" />
+      <entry key="S30" value="1.0551205209475045" />
+      <entry key="S60" value="1.2347775989048033" />
+      <entry key="M2" value="1.4845385836310094" />
+      <entry key="M5" value="1.7533407431194372" />
+      <entry key="M10" value="2.108681130087465" />
+      <entry key="M15" value="2.8008444314571364" />
+      <entry key="M30" value="5.22622862457954" />
+      <entry key="H1" value="8.243551701601822" />
+      <entry key="H2" value="10.660303676500355" />
+      <entry key="H4" value="12.195336127326222" />
+      <entry key="D1" value="13.678577484283425" />
+      <entry key="W1" value="13.95354979415036" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.4544664240730887E-21" />
+      <entry key="MS500" value="6.800498357051591E-5" />
+      <entry key="S2" value="0.09081031559821062" />
+      <entry key="S5" value="0.3830487716571936" />
+      <entry key="S10" value="0.6189093404184441" />
+      <entry key="S30" value="0.8522016008209631" />
+      <entry key="S60" value="0.9231476592728615" />
+      <entry key="M2" value="0.9608057344088144" />
+      <entry key="M5" value="0.9841339964506958" />
+      <entry key="M10" value="0.9920352798417483" />
+      <entry key="M15" value="0.9946831129640151" />
+      <entry key="M30" value="0.9973380133956667" />
+      <entry key="H1" value="0.998668119745327" />
+      <entry key="H2" value="0.9993338379867496" />
+      <entry key="H4" value="0.999666863503412" />
+      <entry key="D1" value="0.99994446954206" />
+      <entry key="W1" value="0.9999920668886368" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="6.144437523432509E-10" />
+      <entry key="MS500" value="0.014380659520922353" />
+      <entry key="S2" value="0.3869161216073712" />
+      <entry key="S5" value="0.9319892403554261" />
+      <entry key="S10" value="1.336021263329945" />
+      <entry key="S30" value="1.794561483036628" />
+      <entry key="S60" value="2.0987301694211564" />
+      <entry key="M2" value="2.414984258805188" />
+      <entry key="M5" value="2.725136260225243" />
+      <entry key="M10" value="3.09448934629428" />
+      <entry key="M15" value="3.7913241455434297" />
+      <entry key="M30" value="6.221379429832439" />
+      <entry key="H1" value="9.241073815814328" />
+      <entry key="H2" value="11.659043598678544" />
+      <entry key="H4" value="13.194699398855347" />
+      <entry key="D1" value="14.6784702873701" />
+      <entry key="W1" value="14.953534451844643" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3GDwJU9AVF0MW62oqs5nzbTWR1a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AopDemoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomFunctionalInterfaceDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DefaultMethodDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionalInterfaceDemo (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionalInterfaceDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericLettersDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java19FeaturesDemo (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java19FeaturesDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PhoneSubscriber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProducerConsumerDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadCreationDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadLifeCycleDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadMethodsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.company.liskov_1.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.company.liskov_1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.creational.prototype.solved.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.depencyInversion.solved.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solid.dependencyInversion.problem.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solid.singleResponsibility.solved.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in design_principles (6).executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.AopDemoApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mj017/Music/D-drive/personal/goal_2026/new/java/design-patterns/src/main/java/solid/singleResponsibility/solved&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\new\java\design-patterns\src\main\java\solid\singleResponsibility\solved" />
+      <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\new\java\design-patterns\src\main\java\solid\singleResponsibility\problem" />
+      <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\new\java\design-patterns\src\main\java\solid\singleResponsibility" />
+      <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\new\java\design-patterns\src\main\java\creational" />
+      <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\new\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\new\java\DSA\src\main" />
+      <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\new\java\design-patterns" />
+      <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\new\java\design-patterns\src\main\java\solid\interfaceSegregation" />
+      <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\new\java\design-patterns\src\main\java\solid\liskov" />
+      <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\new\java\design-patterns\src\main\java\solid\opneClosed" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AopDemoApplication">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solid.liskov.solved.Main" />
+      <module name="design_principles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solid.liskov.solved.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="creational.prototype.solved.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creational.prototype.solved.Client" />
+      <module name="design_principles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="creational.prototype.solved.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solid.dependencyInversion.problem.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solid.dependencyInversion.problem.Main" />
+      <module name="design_principles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solid.dependencyInversion.problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solid.singleResponsibility.solved.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solid.singleResponsibility.solved.Main" />
+      <module name="design_principles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solid.singleResponsibility.solved.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="goal_2026" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="goal_2026" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="goal_2026" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AopDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="spring-boot-aop-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.aopdemo.AopDemoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.aopdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="goal_2026" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.creational.prototype.solved.Client" />
+      <item itemvalue="Application.solid.dependencyInversion.problem.Main" />
+      <item itemvalue="Application.solid.singleResponsibility.solved.Main" />
+      <item itemvalue="Spring Boot.AopDemoApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AopDemoApplication" />
+        <item itemvalue="Application.solid.dependencyInversion.problem.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.solid.singleResponsibility.solved.Main" />
+        <item itemvalue="Application.creational.prototype.solved.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd811c10-436d-4401-88c3-463f2695a3de" name="Changes" comment="" />
+      <created>1783519375591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783519375591</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basic/src/main/java/springboot/spring-boot-aop-demo/src/main/java/com/example/aopdemo/aspect/LoggingAspect.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basic/src/main/java/springboot/spring-boot-aop-demo/src/main/java/com/example/aopdemo/aspect/LoggingAspect.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basic/src/main/java/springboot/spring-boot-aop-demo/src/main/java/com/example/aopdemo/aspect/LoggingAspect.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basic/src/main/java/springboot/spring-boot-aop-demo/src/main/java/com/example/aopdemo/aspect/LoggingAspect.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basic/src/main/java/springboot/spring-boot-aop-demo/src/main/java/com/example/aopdemo/aspect/LoggingAspect.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/main/java/bigO/Demo.java</url>
+          <line>13</line>
+          <placement>INTER_LINE</placement>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
