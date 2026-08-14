@@ -32,8 +32,7 @@ public class Client {
     	i1 = gcp.createServer(Instance.Capacity.micro, 20480);
     	i1.start();
     	i1.stop();
+
     	
     }
-
-    
 }

@@ -13,6 +13,9 @@ public class FunctionalInterfaceDemo {
         Calculator<Integer> multiplication = (a, b) -> a * b;
         System.out.println("Multiplication : " + multiplication.calculate(10, 20));
 
+        Calculator<Float> test = (a, b) -> a + b;
+        System.out.println("Multiplication : " + test.calculate(10.1f, 20.1f));
+
         // ==========================================
         // Default Method
         // ==========================================
@@ -42,7 +45,13 @@ public class FunctionalInterfaceDemo {
      * Accepts any Calculator implementation
      */
     public static void execute(Integer a, Integer b, Calculator<Integer> calculator) {
+        System.out.println("Execute Result : " + calculator.calculate(a, b));
+    }
 
+    /**
+     * Accepts any Calculator implementation
+     */
+    public static void execute(Float a, Float b, Calculator<Float> calculator) {
         System.out.println("Execute Result : " + calculator.calculate(a, b));
     }
 
@@ -53,7 +62,7 @@ public class FunctionalInterfaceDemo {
     @FunctionalInterface
     interface Calculator<T extends Number> {
 
-        int calculate(T a, T b);
+        T calculate(T a, T b);
 
         default void display() {
             System.out.println("Default Method");
