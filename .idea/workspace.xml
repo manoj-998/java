@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd811c10-436d-4401-88c3-463f2695a3de" name="Changes" comment="add new dp">
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/img/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/img/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/img/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/img/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/img/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/img/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/solved/CompositeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/notes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -43,61 +37,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="2.1810086786735725E-220" />
-      <entry key="M5" value="2.640768526139971E-88" />
-      <entry key="M10" value="2.8146533029136863E-44" />
-      <entry key="M15" value="1.3345214256816515E-29" />
-      <entry key="M30" value="6.335320953997351E-15" />
-      <entry key="H1" value="1.4059764908314597E-7" />
-      <entry key="H2" value="6.964048597303469E-4" />
-      <entry key="H4" value="0.053789601159703784" />
-      <entry key="D1" value="6.039541730144179" />
-      <entry key="W1" value="18.180892189821396" />
+      <entry key="MS100" value="1.3099633993378632" />
+      <entry key="MS500" value="2.2382093446958033" />
+      <entry key="S2" value="6.294627861547668" />
+      <entry key="S5" value="11.963039142800797" />
+      <entry key="S10" value="19.21818192183779" />
+      <entry key="S30" value="37.718939938080375" />
+      <entry key="S60" value="51.6928413220442" />
+      <entry key="M2" value="63.17697627196156" />
+      <entry key="M5" value="72.46018604700605" />
+      <entry key="M10" value="76.07734350072809" />
+      <entry key="M15" value="77.34949311243211" />
+      <entry key="M30" value="78.65666469880881" />
+      <entry key="H1" value="79.32373910057308" />
+      <entry key="H2" value="79.661401195686" />
+      <entry key="H4" value="79.88358049769964" />
+      <entry key="D1" value="86.00603145705752" />
+      <entry key="W1" value="98.17462494575562" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0" />
-      <entry key="M2" value="1.0" />
-      <entry key="M5" value="1.0" />
-      <entry key="M10" value="1.0" />
-      <entry key="M15" value="1.0" />
-      <entry key="M30" value="1.0000000000000069" />
-      <entry key="H1" value="1.0000001206016111" />
-      <entry key="H2" value="1.0005386434428103" />
-      <entry key="H4" value="1.0395857510756439" />
-      <entry key="D1" value="4.075513969149078" />
-      <entry key="W1" value="9.387894954575959" />
+      <entry key="MS100" value="1.1546E-320" />
+      <entry key="MS500" value="1.0291106240468162E-64" />
+      <entry key="S2" value="1.0071995322674623E-16" />
+      <entry key="S5" value="3.992511779621052E-7" />
+      <entry key="S10" value="6.318632589113764E-4" />
+      <entry key="S30" value="0.08581061891487066" />
+      <entry key="S60" value="0.292934495945545" />
+      <entry key="M2" value="0.541234233900208" />
+      <entry key="M5" value="0.7822653672771049" />
+      <entry key="M10" value="0.8844576684483586" />
+      <entry key="M15" value="0.9214067040644444" />
+      <entry key="M30" value="0.9598993197541386" />
+      <entry key="H1" value="0.9797446357520689" />
+      <entry key="H2" value="0.9903536074419382" />
+      <entry key="H4" value="1.0342809573881084" />
+      <entry key="D1" value="4.0720404907638175" />
+      <entry key="W1" value="9.386751520627017" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.001306569877720812" />
-      <entry key="MS500" value="0.26498819584932043" />
-      <entry key="S2" value="0.7174747673033516" />
-      <entry key="S5" value="0.8756340733569518" />
-      <entry key="S10" value="0.9357532117801957" />
-      <entry key="S30" value="0.9781086706208764" />
-      <entry key="S60" value="0.9889937667249862" />
-      <entry key="M2" value="0.994481657309468" />
-      <entry key="M5" value="0.9977889978774402" />
-      <entry key="M10" value="0.9988938871959525" />
-      <entry key="M15" value="0.9992624554542576" />
-      <entry key="M30" value="0.9996311597055607" />
-      <entry key="H1" value="0.9998158240070006" />
-      <entry key="H2" value="1.0011427355536875" />
-      <entry key="H4" value="1.0933254818585012" />
-      <entry key="D1" value="10.11497798993701" />
-      <entry key="W1" value="27.56875692315823" />
+      <entry key="MS100" value="1.195129968035069" />
+      <entry key="MS500" value="2.1979222168461114" />
+      <entry key="S2" value="6.247683753143913" />
+      <entry key="S5" value="11.893396413724147" />
+      <entry key="S10" value="19.139031127050032" />
+      <entry key="S30" value="37.7212970511016" />
+      <entry key="S60" value="51.91928600270381" />
+      <entry key="M2" value="63.674603927688395" />
+      <entry key="M5" value="73.22165331169276" />
+      <entry key="M10" value="76.9507491888777" />
+      <entry key="M15" value="78.26337884923981" />
+      <entry key="M30" value="79.61272497169797" />
+      <entry key="H1" value="80.30154417336895" />
+      <entry key="H2" value="80.65077987206406" />
+      <entry key="H4" value="80.91736902378676" />
+      <entry key="D1" value="90.07792035779302" />
+      <entry key="W1" value="107.56133568144145" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -138,10 +132,13 @@
     "Application.depencyInversion.solved.Main.executor": "Run",
     "Application.solid.dependencyInversion.problem.Main.executor": "Run",
     "Application.solid.singleResponsibility.solved.Main.executor": "Run",
+    "Application.structuralDesginPattern.composite.solved.Client.executor": "Run",
+    "Git.CreateWorkingTree.LastParentPath": "C:/Users/mj017/Music/D-drive/personal/goal_2026/code",
     "JUnit.All in design_principles (6).executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.AopDemoApplication.executor": "Debug",
@@ -332,6 +329,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="add new dp" />
@@ -370,15 +378,6 @@
           <line>13</line>
           <placement>INTER_LINE</placement>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/solved/CompositeExample.java</url>
-          <line>86</line>
-          <properties class="structuralDesginPattern.composite.solved.CompositeExample" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

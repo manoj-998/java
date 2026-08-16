@@ -1,8 +1,22 @@
 
 # Design Patterns
 
-## What are Design Patterns?
+## Core Concept
+Instead of checking whether an object is a single item or a collection of items before running a command, the client calls a single interface uniformly. The complex items (Composites) automatically handle passing the command down to their nested parts.
+## Role Definitions
+*   **Client**: The application or function that interacts with the system. It talks exclusively to the Abstract Component interface, remaining unaware of whether it is dealing with a single leaf or a complex structure.
+*   **Abstract Component**: The common base interface or abstract class. It declares the operations common to both simple and complex objects (e.g., `execute()`, `render()`).
+*   **Concrete Component (Leaf)**: The building block of the structure. It represents a single object that has no child elements and performs the actual primitive behavior.
+*   **Composite**: The structural element containing container nodes. It stores child components (both Leaves and other Composites) and implements the interface operations by delegating the work to its children.
 
+## Real-World Analogy: File Systems
+*   **Abstract Component**: `Node` (declares that everything must have a `getSize()` operation).
+*   **Concrete Component (Leaf)**: `File` (a single document that returns its own file size directly).
+*   **Composite**: `Folder` (a container that loops through all its inner files and sub-folders to sum up their total size).
+*   **Client**: `Disk Cleaner Utility` (asks a `Node` for its size without needing to know if that node is a solo file or a folder containing millions of items).
+
+
+## What are Design Patterns?
 Design Patterns are **proven, reusable solutions** to common software prototype problems.
 
 They are **templates or best practices**, not ready-to-use code.
@@ -38,13 +52,13 @@ They provide flexible ways to create objects while hiding the creation logic.
 
 ### Common Creational Patterns
 
-| Pattern | Purpose |
-|----------|---------|
-| Singleton | Ensures only one instance of a class exists |
-| Factory Method | Creates objects without exposing creation logic |
-| Abstract Factory | Creates families of related objects |
-| Builder | Builds complex objects step by step |
-| Prototype | Creates objects by cloning existing ones |
+| Pattern          | Purpose                                         |
+|------------------|-------------------------------------------------|
+| Singleton        | Ensures only one instance of a class exists     |
+| Factory Method   | Creates objects without exposing creation logic |
+| Abstract Factory | Creates families of related objects             |
+| Builder          | Builds complex objects step by step             |
+| Prototype        | Creates objects by cloning existing ones        |
 
 ### Example
 
