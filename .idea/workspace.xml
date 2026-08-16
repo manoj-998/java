@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd811c10-436d-4401-88c3-463f2695a3de" name="Changes" comment="add new dp">
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/decorator/img/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/decorator/img/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/decorator/img/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/decorator/img/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/decorator/img/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/decorator/img/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/decorator/img/img_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/decorator/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/decorator/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/img/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/img/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/img/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/img/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/solved/CompositeExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,59 +45,59 @@
     <decayedCancelled>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.0009002506926251E-194" />
-      <entry key="S5" value="4.639268511034475E-78" />
-      <entry key="S10" value="3.7021022356061075E-39" />
-      <entry key="S30" value="3.2124337477043994E-13" />
-      <entry key="S60" value="9.814938473739302E-7" />
-      <entry key="M2" value="0.0017158604851299033" />
-      <entry key="M5" value="0.15137709508697542" />
-      <entry key="M10" value="0.6738912598655927" />
-      <entry key="M15" value="1.1085845661094147" />
-      <entry key="M30" value="1.8259557984285857" />
-      <entry key="H1" value="2.3869255775692593" />
-      <entry key="H2" value="2.8694073257645516" />
-      <entry key="H4" value="3.4527372395983966" />
-      <entry key="D1" value="12.085042642520744" />
-      <entry key="W1" value="20.074746848801542" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="2.1810086786735725E-220" />
+      <entry key="M5" value="2.640768526139971E-88" />
+      <entry key="M10" value="2.8146533029136863E-44" />
+      <entry key="M15" value="1.3345214256816515E-29" />
+      <entry key="M30" value="6.335320953997351E-15" />
+      <entry key="H1" value="1.4059764908314597E-7" />
+      <entry key="H2" value="6.964048597303469E-4" />
+      <entry key="H4" value="0.053789601159703784" />
+      <entry key="D1" value="6.039541730144179" />
+      <entry key="W1" value="18.180892189821396" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0000001832097984" />
-      <entry key="MS500" value="1.0449355166514673" />
-      <entry key="S2" value="1.46041284860252" />
-      <entry key="S5" value="1.7332616537125407" />
-      <entry key="S10" value="1.8563069856730943" />
-      <entry key="S30" value="1.9496053709688437" />
-      <entry key="S60" value="1.9744769730316074" />
-      <entry key="M2" value="1.9871560023783512" />
-      <entry key="M5" value="1.9948424680091175" />
-      <entry key="M10" value="1.9974179124391631" />
-      <entry key="M15" value="1.9982831157427103" />
-      <entry key="M30" value="2.0014314039827017" />
-      <entry key="H1" value="2.047452942674136" />
-      <entry key="H2" value="2.219380607672915" />
-      <entry key="H4" value="2.5409966601265737" />
-      <entry key="D1" value="6.154062530825091" />
-      <entry key="W1" value="9.261639420628798" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0000000000000069" />
+      <entry key="H1" value="1.0000001206016111" />
+      <entry key="H2" value="1.0005386434428103" />
+      <entry key="H4" value="1.0395857510756439" />
+      <entry key="D1" value="4.075513969149078" />
+      <entry key="W1" value="9.387894954575959" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.77328756086055E-6" />
-      <entry key="MS500" value="0.08624962180848632" />
-      <entry key="S2" value="0.8343450795127959" />
-      <entry key="S5" value="1.3976851286008667" />
-      <entry key="S10" value="1.6694963416262347" />
-      <entry key="S30" value="1.882523931810808" />
-      <entry key="S60" value="1.940295137376204" />
-      <entry key="M2" value="1.9716165833432249" />
-      <entry key="M5" value="2.13927346486673" />
-      <entry key="M10" value="2.6678220219267947" />
-      <entry key="M15" value="3.104537289516386" />
-      <entry key="M30" value="3.8262146571969273" />
-      <entry key="H1" value="4.43375884377736" />
-      <entry key="H2" value="5.0884174411134895" />
-      <entry key="H4" value="5.993492681428332" />
-      <entry key="D1" value="18.238965056662718" />
-      <entry key="W1" value="29.3363541124364" />
+      <entry key="MS100" value="0.001306569877720812" />
+      <entry key="MS500" value="0.26498819584932043" />
+      <entry key="S2" value="0.7174747673033516" />
+      <entry key="S5" value="0.8756340733569518" />
+      <entry key="S10" value="0.9357532117801957" />
+      <entry key="S30" value="0.9781086706208764" />
+      <entry key="S60" value="0.9889937667249862" />
+      <entry key="M2" value="0.994481657309468" />
+      <entry key="M5" value="0.9977889978774402" />
+      <entry key="M10" value="0.9988938871959525" />
+      <entry key="M15" value="0.9992624554542576" />
+      <entry key="M30" value="0.9996311597055607" />
+      <entry key="H1" value="0.9998158240070006" />
+      <entry key="H2" value="1.0011427355536875" />
+      <entry key="H4" value="1.0933254818585012" />
+      <entry key="D1" value="10.11497798993701" />
+      <entry key="W1" value="27.56875692315823" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -115,6 +115,7 @@
   "keyToString": {
     "Application.AopDemoApplication.executor": "Run",
     "Application.Client.executor": "Run",
+    "Application.CompositeExample.executor": "Run",
     "Application.CustomFunctionalInterfaceDemo.executor": "Run",
     "Application.DefaultMethodDemo.executor": "Run",
     "Application.FunctionDemo.executor": "Run",
@@ -147,7 +148,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/mj017/Music/D-drive/personal/goal_2026/code/java/design-patterns/src/main/java/structuralDesginPattern/adaptor",
+    "last_opened_file_path": "C:/Users/mj017/Music/D-drive/personal/goal_2026/code/java/design-patterns/src/main/java/structuralDesginPattern",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -163,8 +164,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\code\java\design-patterns\src\main\java\structuralDesginPattern\adaptor" />
       <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\code\java\design-patterns\src\main\java\structuralDesginPattern" />
+      <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\code\java\design-patterns\src\main\java\structuralDesginPattern\adaptor" />
       <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\code\java\design-patterns\src\main\java\solid\dependencyInversion\problem" />
       <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\new\java\design-patterns\src\main\java\solid\singleResponsibility\solved" />
       <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\new\java\design-patterns\src\main\java\solid\singleResponsibility\problem" />
@@ -177,13 +178,26 @@
       <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\new\java\design-patterns\src\main\java\solid\interfaceSegregation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.structuralDesginPattern.composite.solved.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="structuralDesginPattern.decorator.solved.Client" />
       <module name="design_principles (2)" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="structuralDesginPattern.decorator.solved.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompositeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structuralDesginPattern.composite.solved.CompositeExample" />
+      <module name="design_principles (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structuralDesginPattern.composite.solved.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,24 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solid.liskov.solved.Main" />
-      <module name="design_principles" />
+    <configuration name="structuralDesginPattern.composite.solved.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structuralDesginPattern.composite.solved.Client" />
+      <module name="design_principles (2)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solid.liskov.solved.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solid.dependencyInversion.problem.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solid.dependencyInversion.problem.Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="solid.dependencyInversion.problem.*" />
+          <option name="PATTERN" value="structuralDesginPattern.composite.solved.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,18 +296,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Client" />
+      <item itemvalue="Application.CompositeExample" />
       <item itemvalue="Application.FunctionalInterfaceDemo" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.solid.dependencyInversion.problem.Main" />
+      <item itemvalue="Application.structuralDesginPattern.composite.solved.Client" />
       <item itemvalue="Spring Boot.AopDemoApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.structuralDesginPattern.composite.solved.Client" />
+        <item itemvalue="Application.CompositeExample" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.FunctionalInterfaceDemo" />
         <item itemvalue="Spring Boot.AopDemoApplication" />
-        <item itemvalue="Application.solid.dependencyInversion.problem.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -331,9 +333,9 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add new dp" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="add new dp" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new dp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -368,6 +370,15 @@
           <line>13</line>
           <placement>INTER_LINE</placement>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/solved/CompositeExample.java</url>
+          <line>86</line>
+          <properties class="structuralDesginPattern.composite.solved.CompositeExample" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
