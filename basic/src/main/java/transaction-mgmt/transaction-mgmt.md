@@ -8,8 +8,8 @@
 - It ensures that either **all operations succeed (Commit)** or **none of them are applied (Rollback)**, maintaining data consistency.
 ---
 
-![txn-mgmt.png](../../basics/img/txn-mgmt.png)
-![txn-mgmt2.png](../../basics/img/txn-mgmt2.png)
+![txn-mgmt.png](../basics/img/txn-mgmt.png)
+![txn-mgmt2.png](../basics/img/txn-mgmt2.png)
 
 # Why Do We Need Transactions?
 
