@@ -37,23 +37,23 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000115936830212" />
-      <entry key="S2" value="1.0805581873951422" />
-      <entry key="S5" value="1.6435587498464646" />
-      <entry key="S10" value="2.6534069671540426" />
-      <entry key="S30" value="6.1088297658700705" />
-      <entry key="S60" value="10.126155377894328" />
-      <entry key="M2" value="15.240074962736992" />
-      <entry key="M5" value="21.306497016959682" />
-      <entry key="M10" value="24.292314966575972" />
-      <entry key="M15" value="25.43858432614755" />
-      <entry key="M30" value="26.671838936876306" />
-      <entry key="H1" value="27.332613687716186" />
-      <entry key="H2" value="28.65530699918119" />
-      <entry key="H4" value="38.566180170346264" />
-      <entry key="D1" value="110.5227017769164" />
-      <entry key="W1" value="155.67578460730505" />
+      <entry key="MS100" value="1.0000008775593288" />
+      <entry key="MS500" value="1.0616841163262942" />
+      <entry key="S2" value="1.7170833746403762" />
+      <entry key="S5" value="2.7847195442501853" />
+      <entry key="S10" value="3.619014101607749" />
+      <entry key="S30" value="4.458623311939387" />
+      <entry key="S60" value="4.717552021540589" />
+      <entry key="M2" value="4.855697251929605" />
+      <entry key="M5" value="4.941521444182106" />
+      <entry key="M10" value="4.970632899322004" />
+      <entry key="M15" value="4.980393409695509" />
+      <entry key="M30" value="4.99024475652447" />
+      <entry key="H1" value="5.036875365923298" />
+      <entry key="H2" value="6.117983715480064" />
+      <entry key="H4" value="12.624801945105972" />
+      <entry key="D1" value="89.35919479394525" />
+      <entry key="W1" value="154.78256457833186" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -62,36 +62,36 @@
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
       <entry key="S30" value="0.0" />
-      <entry key="S60" value="6.149515640799298E-212" />
-      <entry key="M2" value="2.479821695364266E-106" />
-      <entry key="M5" value="5.7249036823129695E-43" />
-      <entry key="M10" value="7.566856365912052E-22" />
-      <entry key="M15" value="8.317812780329587E-15" />
-      <entry key="M30" value="9.491916687988923E-8" />
-      <entry key="H1" value="3.6347888474329477E-4" />
-      <entry key="H2" value="0.025227910929821008" />
-      <entry key="H4" value="0.223915545400638" />
-      <entry key="D1" value="3.4345350569121096" />
-      <entry key="W1" value="9.814388127772562" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="8.42270005308956E-191" />
+      <entry key="M5" value="9.336423353647105E-77" />
+      <entry key="M10" value="9.66321552989847E-39" />
+      <entry key="M15" value="4.5444353022691087E-26" />
+      <entry key="M30" value="2.2186526235643596E-13" />
+      <entry key="H1" value="5.557082992652243E-7" />
+      <entry key="H2" value="9.864274223395162E-4" />
+      <entry key="H4" value="0.04427679428033665" />
+      <entry key="D1" value="2.6215004764974377" />
+      <entry key="W1" value="9.44285917322863" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8950250709279725" />
-      <entry key="MS500" value="0.9780747662549196" />
-      <entry key="S2" value="1.0745174914965925" />
-      <entry key="S5" value="1.6398222738260209" />
-      <entry key="S10" value="2.65053485912392" />
-      <entry key="S30" value="6.106920778654904" />
-      <entry key="S60" value="10.124642984030299" />
-      <entry key="M2" value="15.238951737881038" />
-      <entry key="M5" value="21.305871618886346" />
-      <entry key="M10" value="24.29195882437663" />
-      <entry key="M15" value="25.438335775392872" />
-      <entry key="M30" value="26.671708771680862" />
-      <entry key="H1" value="27.332908945151363" />
-      <entry key="H2" value="28.68045160296278" />
-      <entry key="H4" value="38.78987006551091" />
-      <entry key="D1" value="113.95697737637536" />
-      <entry key="W1" value="165.4901039275261" />
+      <entry key="MS100" value="0.9012512318843585" />
+      <entry key="MS500" value="1.039502116586785" />
+      <entry key="S2" value="1.7075478681644713" />
+      <entry key="S5" value="2.7786184285110003" />
+      <entry key="S10" value="3.615096922018425" />
+      <entry key="S30" value="4.457029379178683" />
+      <entry key="S60" value="4.716710754815012" />
+      <entry key="M2" value="4.855264810537052" />
+      <entry key="M5" value="4.941345534483814" />
+      <entry key="M10" value="4.970544447112677" />
+      <entry key="M15" value="4.980334330393008" />
+      <entry key="M30" value="4.990215160827043" />
+      <entry key="H1" value="5.036861005668324" />
+      <entry key="H2" value="6.11895947621342" />
+      <entry key="H4" value="12.669030414038945" />
+      <entry key="D1" value="91.98049661491116" />
+      <entry key="W1" value="164.22535746050852" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -126,6 +126,7 @@
     "Application.ThreadCreationDemo.executor": "Run",
     "Application.ThreadLifeCycleDemo.executor": "Run",
     "Application.ThreadMethodsDemo.executor": "Run",
+    "Application.behavioral.command.solved.Client.executor": "Run",
     "Application.com.company.liskov_1.Main (1).executor": "Run",
     "Application.com.company.liskov_1.Main.executor": "Run",
     "Application.creational.prototype.solved.Client.executor": "Run",
@@ -178,13 +179,13 @@
       <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\new\java\design-patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.structuralDesginPattern.facade.solved.Client">
-    <configuration name="CompositeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structuralDesginPattern.composite.solved.CompositeExample" />
+  <component name="RunManager" selected="Application.behavioral.command.solved.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.chainOfResponsibility.solved.Client" />
       <module name="design_principles (2)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structuralDesginPattern.composite.solved.*" />
+          <option name="PATTERN" value="behavioral.chainOfResponsibility.solved.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="structuralDesginPattern.composite.solved.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structuralDesginPattern.composite.solved.Client" />
+    <configuration name="behavioral.command.solved.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.command.solved.Client" />
       <module name="design_principles (2)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structuralDesginPattern.composite.solved.*" />
+          <option name="PATTERN" value="behavioral.command.solved.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,19 +295,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.behavioral.command.solved.Client" />
       <item itemvalue="Application.structuralDesginPattern.facade.solved.Client" />
       <item itemvalue="Application.structuralDesginPattern.flyweight.solved.Client" />
       <item itemvalue="Application.structuralDesginPattern.proxy.dynamic.Client" />
-      <item itemvalue="Application.CompositeExample" />
-      <item itemvalue="Application.structuralDesginPattern.composite.solved.Client" />
+      <item itemvalue="Application.Client" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.behavioral.command.solved.Client" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.structuralDesginPattern.facade.solved.Client" />
         <item itemvalue="Application.structuralDesginPattern.proxy.dynamic.Client" />
         <item itemvalue="Application.structuralDesginPattern.flyweight.solved.Client" />
-        <item itemvalue="Application.structuralDesginPattern.composite.solved.Client" />
-        <item itemvalue="Application.CompositeExample" />
       </list>
     </recent_temporary>
   </component>
