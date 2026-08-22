@@ -139,11 +139,8 @@ public class ProxyPatternExample {
         public String getUser(int id) {
 
             System.out.println("Request: getUser(" + id + ")");
-
             String result = service.getUser(id);
-
             System.out.println("Response: " + result);
-
             return result;
         }
     }

@@ -2,6 +2,7 @@ package behavioral.chainOfResponsibility.solved;
 
 import java.time.LocalDate;
 import java.time.Period;
+
 //Represents a request in our chain of responsibility
 public class LeaveApplication {
 	

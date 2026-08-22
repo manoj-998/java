@@ -121,14 +121,11 @@ public class MailTasksRunner implements Runnable {
 	public void run() {
 
 		while (true) {
-
 			Command cmd = null;
-
 			/*
 			 * Only one thread should modify/read the queue	inside this critical section at a time.
 			 */
 			synchronized (pendingCommands) {
-
 				/*
 				 * No commands available.
 				 * Worker thread waits instead of continuously
@@ -137,11 +134,8 @@ public class MailTasksRunner implements Runnable {
 				if (pendingCommands.isEmpty()) {
 					try {
 						pendingCommands.wait();
-
 					} catch (InterruptedException e) {
-
 						System.out.println("Runner interrupted");
-
 						/*
 						 * If shutdown() caused the interruption,
 						 * terminate the worker thread.
@@ -152,18 +146,14 @@ public class MailTasksRunner implements Runnable {
 						}
 					}
 				}
-
 				/*
 				 * After waking up, check the queue again.
 				 *
 				 * If a command exists:
 				 * remove the first command for execution.
 				 */
-				cmd = pendingCommands.isEmpty()
-						? null
-						: pendingCommands.remove(0);
+				cmd = pendingCommands.isEmpty() ? null : pendingCommands.remove(0);
 			}
-
 			/*
 			 * No command is available.
 			 * Stop the runner.

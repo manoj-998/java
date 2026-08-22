@@ -3,6 +3,8 @@
 
 The **Bridge Design Pattern** is a **Structural Design Pattern** that separates an **abstraction from its implementation**, allowing both to change independently without affecting each other.
 
+This  separate the what (the high-level control) from the how (the low-level work) so you can change or add to either one without breaking the other.
+
 In simple words, Bridge separates **WHAT we want to do** from **HOW we want to do it**. For example, `Notification` defines **what** type of notification we want to send, while `MessageSender` defines **how** we send it using Email, SMS, or WhatsApp.
 
 ```text

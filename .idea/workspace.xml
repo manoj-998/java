@@ -5,7 +5,124 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd811c10-436d-4401-88c3-463f2695a3de" name="Changes" comment="add new dp">
-      <change beforePath="$PROJECT_DIR$/design-patterns/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/memento/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/memento/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/memento/img/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/memento/img/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/memento/img/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/memento/img/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/memento/img/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/memento/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/observer/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/observer/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/observer/img/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/observer/img/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/observer/img/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/observer/img/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/observer/img/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/observer/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/state/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/state/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/state/img/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/state/img/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/state/img/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/state/img/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/state/img/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/state/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/stratgy/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/stratgy/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/stratgy/img/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/stratgy/img/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/stratgy/img/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/stratgy/img/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/stratgy/img/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/stratgy/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/template/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/template/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/template/img/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/template/img/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/template/img/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/template/img/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/template/img/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/templates/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/visitor/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/visitor/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/visitor/img/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/visitor/img/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/visitor/img/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/visitor/img/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/visitor/img/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/visitor/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/code/equalOverrideDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/feature/DefaultMethodDemo$Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/feature/DefaultMethodDemo$Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/feature/DefaultMethodDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/feature/FunctionDemo$Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/feature/FunctionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/feature/FunctionalInterfaceDemo$Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/feature/FunctionalInterfaceDemo$MathOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/feature/FunctionalInterfaceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/feature/RecordDemo$Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/feature/RecordDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/feature/SealedClassDemo$Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/feature/SealedClassDemo$Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/feature/SealedClassDemo$ElectricTruck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/feature/SealedClassDemo$SportsBike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/feature/SealedClassDemo$Truck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/feature/SealedClassDemo$Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/feature/SealedClassDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/feature/UnmodifiableCollectionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/generic/CustomFunctionalInterfaceDemo$MyBiFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/generic/CustomFunctionalInterfaceDemo$MyConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/generic/CustomFunctionalInterfaceDemo$MyFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/generic/CustomFunctionalInterfaceDemo$MySupplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/generic/CustomFunctionalInterfaceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/generic/GenericDemo$Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/generic/GenericDemo$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/generic/GenericDemo$ReportGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/generic/GenericDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/generic/GenericDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/generic/GenericLettersDemo$Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/generic/GenericLettersDemo$Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/generic/GenericLettersDemo$KeyValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/generic/GenericLettersDemo$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/generic/GenericLettersDemo$SimpleList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/generic/GenericLettersDemo$Triple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/generic/GenericLettersDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/thread/code/ExecutorsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/thread/code/MyCallable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/thread/code/MyRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/thread/code/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/thread/code/ProducerConsumerDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/thread/code/SharedResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/thread/code/SynchronizationDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/thread/code/ThreadCreationDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/thread/code/ThreadLifeCycleDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/thread/code/ThreadMethodsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/target/classes/basics/thread/code/Tread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/chainOfResponsibility/solved/LeaveApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/chainOfResponsibility/solved/LeaveApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/command/solved/MailTasksRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/command/solved/MailTasksRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/interperter/note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/behavioral/template/note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/creational/singleton/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/bridge/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/bridge/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/composite/solved/CompositeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/proxy/ProxyPatternExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/structuralDesginPattern/proxy/ProxyPatternExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/classes/behavioral/chainOfResponsibility/solved/LeaveApplication$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/target/classes/behavioral/chainOfResponsibility/solved/LeaveApplication$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/classes/behavioral/chainOfResponsibility/solved/LeaveApplication$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/target/classes/behavioral/chainOfResponsibility/solved/LeaveApplication$Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/classes/behavioral/chainOfResponsibility/solved/LeaveApplication$Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/target/classes/behavioral/chainOfResponsibility/solved/LeaveApplication$Type.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/classes/behavioral/chainOfResponsibility/solved/LeaveApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/target/classes/behavioral/chainOfResponsibility/solved/LeaveApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/classes/behavioral/command/solved/MailTasksRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/target/classes/behavioral/command/solved/MailTasksRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/classes/creational/singleton/Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/classes/structuralDesginPattern/composite/solved/CompositeExample$Developer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/classes/structuralDesginPattern/composite/solved/CompositeExample$Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/classes/structuralDesginPattern/composite/solved/CompositeExample$Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/classes/structuralDesginPattern/composite/solved/CompositeExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/classes/structuralDesginPattern/proxy/ProxyPatternExample$LoggingProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/target/classes/structuralDesginPattern/proxy/ProxyPatternExample$LoggingProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/classes/structuralDesginPattern/proxy/ProxyPatternExample$RemoteUserServiceProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/target/classes/structuralDesginPattern/proxy/ProxyPatternExample$RemoteUserServiceProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/classes/structuralDesginPattern/proxy/ProxyPatternExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/target/classes/structuralDesginPattern/proxy/ProxyPatternExample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,61 +154,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000008775593288" />
-      <entry key="MS500" value="1.0616841163262942" />
-      <entry key="S2" value="1.7170833746403762" />
-      <entry key="S5" value="2.7847195442501853" />
-      <entry key="S10" value="3.619014101607749" />
-      <entry key="S30" value="4.458623311939387" />
-      <entry key="S60" value="4.717552021540589" />
-      <entry key="M2" value="4.855697251929605" />
-      <entry key="M5" value="4.941521444182106" />
-      <entry key="M10" value="4.970632899322004" />
-      <entry key="M15" value="4.980393409695509" />
-      <entry key="M30" value="4.99024475652447" />
-      <entry key="H1" value="5.036875365923298" />
-      <entry key="H2" value="6.117983715480064" />
-      <entry key="H4" value="12.624801945105972" />
-      <entry key="D1" value="89.35919479394525" />
-      <entry key="W1" value="154.78256457833186" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000000000252933" />
+      <entry key="S60" value="1.0000071124361485" />
+      <entry key="M2" value="1.0037715873555748" />
+      <entry key="M5" value="1.162640110890322" />
+      <entry key="M10" value="1.5703334294599025" />
+      <entry key="M15" value="1.8664879957555998" />
+      <entry key="M30" value="2.3164254596851106" />
+      <entry key="H1" value="2.6226086059052856" />
+      <entry key="H2" value="2.810588443451728" />
+      <entry key="H4" value="3.4649463359725363" />
+      <entry key="D1" value="39.7591601330783" />
+      <entry key="W1" value="160.1506855460165" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="8.42270005308956E-191" />
-      <entry key="M5" value="9.336423353647105E-77" />
-      <entry key="M10" value="9.66321552989847E-39" />
-      <entry key="M15" value="4.5444353022691087E-26" />
-      <entry key="M30" value="2.2186526235643596E-13" />
-      <entry key="H1" value="5.557082992652243E-7" />
-      <entry key="H2" value="9.864274223395162E-4" />
-      <entry key="H4" value="0.04427679428033665" />
-      <entry key="D1" value="2.6215004764974377" />
-      <entry key="W1" value="9.44285917322863" />
+      <entry key="S2" value="9.895509212144395E-164" />
+      <entry key="S5" value="8.866070503780026E-66" />
+      <entry key="S10" value="4.153961090949366E-33" />
+      <entry key="S30" value="2.5438506876447042E-11" />
+      <entry key="S60" value="7.130026936588541E-6" />
+      <entry key="M2" value="0.003775879665673334" />
+      <entry key="M5" value="0.16271030853054722" />
+      <entry key="M10" value="0.570454268620367" />
+      <entry key="M15" value="0.8666096300255979" />
+      <entry key="M30" value="1.3165172821673923" />
+      <entry key="H1" value="1.622662728041568" />
+      <entry key="H2" value="1.8019339984399627" />
+      <entry key="H4" value="1.9284981918573947" />
+      <entry key="D1" value="3.9450835486223768" />
+      <entry key="W1" value="12.96041270715546" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9012512318843585" />
-      <entry key="MS500" value="1.039502116586785" />
-      <entry key="S2" value="1.7075478681644713" />
-      <entry key="S5" value="2.7786184285110003" />
-      <entry key="S10" value="3.615096922018425" />
-      <entry key="S30" value="4.457029379178683" />
-      <entry key="S60" value="4.716710754815012" />
-      <entry key="M2" value="4.855264810537052" />
-      <entry key="M5" value="4.941345534483814" />
-      <entry key="M10" value="4.970544447112677" />
-      <entry key="M15" value="4.980334330393008" />
-      <entry key="M30" value="4.990215160827043" />
-      <entry key="H1" value="5.036861005668324" />
-      <entry key="H2" value="6.11895947621342" />
-      <entry key="H4" value="12.669030414038945" />
-      <entry key="D1" value="91.98049661491116" />
-      <entry key="W1" value="164.22535746050852" />
+      <entry key="MS100" value="0.9138314502294005" />
+      <entry key="MS500" value="0.9821395952633915" />
+      <entry key="S2" value="0.995504677670617" />
+      <entry key="S5" value="0.9981994402866303" />
+      <entry key="S10" value="0.9990993145261537" />
+      <entry key="S30" value="0.9996996813760259" />
+      <entry key="S60" value="0.9998639109606653" />
+      <entry key="M2" value="1.0074297619045895" />
+      <entry key="M5" value="1.3245856771175926" />
+      <entry key="M10" value="2.139484694500973" />
+      <entry key="M15" value="2.731783158538628" />
+      <entry key="M30" value="3.6319468837868216" />
+      <entry key="H1" value="4.24465819298826" />
+      <entry key="H2" value="4.612181964527053" />
+      <entry key="H4" value="5.393256746843088" />
+      <entry key="D1" value="43.70411271229325" />
+      <entry key="W1" value="173.11102234786625" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -119,6 +236,7 @@
     "Application.Java19FeaturesDemo (1).executor": "Run",
     "Application.Java19FeaturesDemo.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MediatorPatternExample.executor": "Run",
     "Application.PhoneSubscriber.executor": "Run",
     "Application.ProducerConsumerDemo.executor": "Run",
     "Application.StackMain.executor": "Run",
@@ -127,6 +245,11 @@
     "Application.ThreadLifeCycleDemo.executor": "Run",
     "Application.ThreadMethodsDemo.executor": "Run",
     "Application.behavioral.command.solved.Client.executor": "Run",
+    "Application.behavioral.interperter.solved.Client.executor": "Run",
+    "Application.behavioral.mediator.solved.Client.executor": "Run",
+    "Application.behavioral.memento.solved.Client.executor": "Run",
+    "Application.behavioral.template.solved.Client.executor": "Debug",
+    "Application.behavioral.visitor.solved.Client.executor": "Run",
     "Application.com.company.liskov_1.Main (1).executor": "Run",
     "Application.com.company.liskov_1.Main.executor": "Run",
     "Application.creational.prototype.solved.Client.executor": "Run",
@@ -166,26 +289,26 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\code\java\design-patterns\src\main\java\behavioral" />
+      <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\code\java\design-patterns\src\main\java\behavioral\stratgy\img" />
       <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\code\java\design-patterns\src\main\java\structuralDesginPattern" />
       <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\code\java\design-patterns\src\main\java\structuralDesginPattern\adaptor" />
       <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\code\java\design-patterns\src\main\java\solid\dependencyInversion\problem" />
-      <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\new\java\design-patterns\src\main\java\solid\singleResponsibility\solved" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\code\java\design-patterns\src\main\java\behavioral\memento\img" />
       <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\code\java\basic\src\main\java\transaction-mgmt" />
       <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\code\java\design-patterns\src\main\java\structuralDesginPattern\bridge" />
       <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\code\java\design-patterns\src\main\java\structuralDesginPattern\bridge\solved" />
       <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\new\java\DSA\src\main" />
-      <recent name="C:\Users\mj017\Music\D-drive\personal\goal_2026\new\java\design-patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.behavioral.command.solved.Client">
+  <component name="RunManager" selected="Application.behavioral.visitor.solved.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavioral.chainOfResponsibility.solved.Client" />
+      <option name="MAIN_CLASS_NAME" value="behavioral.state.solved.Client" />
       <module name="design_principles (2)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavioral.chainOfResponsibility.solved.*" />
+          <option name="PATTERN" value="behavioral.state.solved.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +316,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="behavioral.command.solved.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavioral.command.solved.Client" />
+    <configuration name="MediatorPatternExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MediatorPatternExample" />
+      <module name="design_principles (2)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="behavioral.memento.solved.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.memento.solved.Client" />
       <module name="design_principles (2)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavioral.command.solved.*" />
+          <option name="PATTERN" value="behavioral.memento.solved.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +336,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="structuralDesginPattern.facade.solved.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structuralDesginPattern.facade.solved.Client" />
+    <configuration name="behavioral.template.solved.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.template.solved.Client" />
       <module name="design_principles (2)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structuralDesginPattern.facade.solved.*" />
+          <option name="PATTERN" value="behavioral.template.solved.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,25 +349,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="structuralDesginPattern.flyweight.solved.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structuralDesginPattern.flyweight.solved.Client" />
+    <configuration name="behavioral.visitor.solved.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.visitor.solved.Client" />
       <module name="design_principles (2)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structuralDesginPattern.flyweight.solved.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="structuralDesginPattern.proxy.dynamic.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structuralDesginPattern.proxy.dynamic.Client" />
-      <module name="design_principles (2)" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="structuralDesginPattern.proxy.dynamic.*" />
+          <option name="PATTERN" value="behavioral.visitor.solved.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,19 +412,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.behavioral.command.solved.Client" />
-      <item itemvalue="Application.structuralDesginPattern.facade.solved.Client" />
-      <item itemvalue="Application.structuralDesginPattern.flyweight.solved.Client" />
-      <item itemvalue="Application.structuralDesginPattern.proxy.dynamic.Client" />
+      <item itemvalue="Application.behavioral.memento.solved.Client" />
+      <item itemvalue="Application.behavioral.template.solved.Client" />
+      <item itemvalue="Application.behavioral.visitor.solved.Client" />
+      <item itemvalue="Application.MediatorPatternExample" />
       <item itemvalue="Application.Client" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.behavioral.command.solved.Client" />
+        <item itemvalue="Application.behavioral.visitor.solved.Client" />
+        <item itemvalue="Application.behavioral.template.solved.Client" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.structuralDesginPattern.facade.solved.Client" />
-        <item itemvalue="Application.structuralDesginPattern.proxy.dynamic.Client" />
-        <item itemvalue="Application.structuralDesginPattern.flyweight.solved.Client" />
+        <item itemvalue="Application.behavioral.memento.solved.Client" />
+        <item itemvalue="Application.MediatorPatternExample" />
       </list>
     </recent_temporary>
   </component>
@@ -381,6 +498,45 @@
           <line>13</line>
           <placement>INTER_LINE</placement>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/design-patterns/src/main/java/behavioral/interperter/solved/Client.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/design-patterns/src/main/java/behavioral/interperter/solved/ExpressionBuilder.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/design-patterns/src/main/java/behavioral/interperter/solved/Client.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/design-patterns/src/main/java/behavioral/interperter/solved/Permission.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/design-patterns/src/main/java/behavioral/interperter/solved/ExpressionBuilder.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/design-patterns/src/main/java/behavioral/template/solved/TextPrinter.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/design-patterns/src/main/java/behavioral/interperter/solved/PermissionExpression.java</url>
+          <line>5</line>
+          <properties class="behavioral.interperter.solved.PermissionExpression" method="interpret">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
